@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **RavijaDul/RavijaDul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,11 +28,11 @@ University of Moratuwa · Sri Lanka
 Final-year engineering undergraduate with hands-on experience in **software engineering**,  
 **AI-driven systems**, and **embedded & IoT platforms**.
 
-I focus on building **production-grade, scalable systems** rather than hobby demos,  
+I focus on building **production-grade, scalable systems** ,  
 covering backend services, intelligent pipelines, and real-world data-driven applications.
 
 ---
-
+<!--
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -71,15 +69,14 @@ covering backend services, intelligent pipelines, and real-world data-driven app
 ![Linux](https://img.shields.io/badge/Linux-Intermediate-yellow)
 
 ---
-
+-->
 ## 🚀 Featured Projects
 
 ### 🔹 IntelliScriptV3 (Final Year Project)
 AI-powered enterprise knowledge management platform using **LLMs + RAG**  
 Role-based conversational access to structured & unstructured institutional data.
 
-**Tech:** LLMs, Vector DBs, FastAPI, React, RBAC  
-🔗 Repo: *Add link*
+**Tech:** LLMs, Vector DBs, RAG, FastAPI, React, RBAC  
 
 ---
 
@@ -87,7 +84,7 @@ Role-based conversational access to structured & unstructured institutional data
 Production-grade IoT gateway for solar inverter monitoring under constrained environments.
 
 **Tech:** ESP32, FreeRTOS, MQTT, C++, Python  
-🔗 Repo: *Add link*
+
 
 ---
 
@@ -95,7 +92,9 @@ Production-grade IoT gateway for solar inverter monitoring under constrained env
 Street-level mapping and intelligent data extraction system.
 
 **Tech:** Node.js, Python backend, Google Maps & Street View APIs  
-🔗 Repo: *Add link*
+🔗 : *[Add link](https://autobuildingmapperv2-endgh9f3b3f2ages.canadaeast-01.azurewebsites.net/)*
+
+> Some production and academic projects are maintained in private or organization repositories.
 
 ---
 
@@ -118,6 +117,6 @@ Street-level mapping and intelligent data extraction system.
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(add link)*
-- Email: *(optional)*
+- LinkedIn: *www.linkedin.com/in/ravija-dulnath-a36a86179*
+- Email: *ravijadulnath01@gmail.com*
 
