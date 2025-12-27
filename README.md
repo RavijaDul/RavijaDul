@@ -99,23 +99,23 @@ Street-level mapping and intelligent data extraction system.
 
 ---
 
-## 📊 GitHub Statistics (Auto-Updated)
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RavijaDul&show_icons=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavijaDul&layout=compact" height="165"/>
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RavijaDul&show_icons=true&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RavijaDul&layout=compact&hide_border=true"
+    height="165"
+  />
 </p>
+
 
 ---
 
 ## 📈 Contribution Activity
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavijaDul&hide_border=true" />
-</p>
-## 📈 Contribution Activity2
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=RavijaDul&hide_border=true&area=true&height=200" 
