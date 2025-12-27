@@ -25,11 +25,12 @@ University of Moratuwa · Sri Lanka
 
 ## 🧠 About Me
 
-Final-year engineering undergraduate with hands-on experience in **software engineering**,  
-**AI-driven systems**, and **embedded & IoT platforms**.
+Final-year ENTC undergraduate at the University of Moratuwa with strong interests in 
+**software engineering**, **machine learning**, and **embedded & IoT systems**.
 
-I focus on building **production-grade, scalable systems** ,  
-covering backend services, intelligent pipelines, and real-world data-driven applications.
+My work focuses on building real-world solutions that connect **edge systems**, data, 
+and intelligent algorithms through scalable software architectures.
+
 
 ---
 <!--
@@ -83,7 +84,7 @@ Role-based conversational access to structured & unstructured institutional data
 ### 🔹 EcoWatt Polaris
 Production-grade IoT gateway for solar inverter monitoring under constrained environments.
 
-**Tech:** ESP32, FreeRTOS, MQTT, C++, Python  
+**Tech:** ESP32, FOTA, MQTT, C++, Python  
 
 
 ---
@@ -92,7 +93,7 @@ Production-grade IoT gateway for solar inverter monitoring under constrained env
 Street-level mapping and intelligent data extraction system.
 
 **Tech:** Node.js, Python backend, Google Maps & Street View APIs  
-🔗 : *[Add link](https://autobuildingmapperv2-endgh9f3b3f2ages.canadaeast-01.azurewebsites.net/)*
+🔗 : *[See here](https://autobuildingmapperv2-endgh9f3b3f2ages.canadaeast-01.azurewebsites.net/)*
 
 > Some production and academic projects are maintained in private or organization repositories.
 
@@ -109,8 +110,16 @@ Street-level mapping and intelligent data extraction system.
 
 ## 📈 Contribution Activity
 
+
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavijaDul" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavijaDul&hide_border=true" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RavijaDul&hide_border=true&area=true&height=200" 
+  />
 </p>
 
 ---
