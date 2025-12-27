@@ -86,7 +86,6 @@ Production-grade IoT gateway for solar inverter monitoring under constrained env
 
 **Tech:** ESP32, FOTA, MQTT, C++, Python  
 
-
 ---
 
 ### 🔹 Auto Building Mapper
@@ -98,7 +97,7 @@ Street-level mapping and intelligent data extraction system.
 > Some production and academic projects are maintained in private or organization repositories.
 
 ---
-
+<!--
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -114,7 +113,7 @@ Street-level mapping and intelligent data extraction system.
 
 
 ---
-
+-->
 ## 📈 Contribution Activity
 <p align="center">
   <img 
