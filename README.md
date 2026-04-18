@@ -33,10 +33,3 @@ Building production systems across **multi-agent AI orchestration**, **full-stac
 | **SkySense** | AI co-pilot for flight log analysis and anomaly detection |
 
 > Some projects are maintained in private or organization repositories.
-
----
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RavijaDul&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&count_private=true" height="150" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RavijaDul&layout=compact&hide_border=true&theme=tokyonight" height="150" />
-</p>
